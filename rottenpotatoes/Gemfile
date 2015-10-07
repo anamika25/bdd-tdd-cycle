@@ -19,6 +19,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'simplecov'
   gem 'test-unit'
+  gem 'compass', '1.0.3'
 end
 group :production do
   gem 'pg'

@@ -18,6 +18,8 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails'
   gem 'simplecov'
+  gem 'test-unit'
+  gem 'compass'
 end
 group :production do
   gem 'pg'
